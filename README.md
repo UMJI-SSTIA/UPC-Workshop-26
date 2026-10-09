@@ -1,1 +1,1 @@
-This repository contains the lecture notes used by Qu Zijie professor--UPC Workshop Part I.pdf, and gold medalist, Ye Chengrong--UPC Workshop-ycr.pdf.
+## This repository contains two lecture note files: “UPC Workshop Part I.pdf” by Professor Qu Zijie, and “UPC Workshop-ycr.pdf” by gold medalist Ye Chengrong.
